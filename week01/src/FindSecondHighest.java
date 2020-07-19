@@ -7,6 +7,7 @@ public class FindSecondHighest {
         System.out.println("The second highest number is : " + arr[arr.length - 2]);
     }
 
+    //using quickSort insted of built-in function
     public void quickSort(int[] nums) {
 
     }
